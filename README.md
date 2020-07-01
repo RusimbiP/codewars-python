@@ -1,1 +1,1 @@
-# My codewars journey codewars: One kata per day
+# My codewars journey: One kata per day
